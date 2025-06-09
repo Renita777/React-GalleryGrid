@@ -78,7 +78,7 @@ function GalleryPage() {
 
       // Update the toast to success and close after 2 seconds
       toast.update(toastId, {
-        render: 'Deleted successfully!',
+        render: 'Deleted successfuly!',
         type: 'success',
         isLoading: false,
         autoClose: 2000,
